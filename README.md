@@ -2,6 +2,7 @@
 
 A bot to pick random Rainbow Six: Siege Operators based on a list of players added by users.
 This bot was wrote and used on a Raspberry Pi. This was my first ever use of python, so code is not perfect.
+My next step for this code would be to seperate the random operator selecting into its own method, avoiding repeating code.
 
 ## Using the Bot in Discord
 
