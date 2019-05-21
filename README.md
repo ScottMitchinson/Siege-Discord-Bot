@@ -9,11 +9,11 @@ The bot uses a questionmark as a prefix, however this can be changed in the code
 The Discord.py library has been used to allow the bot to run on discord.
 The bot features a few simple commands to work the bot:
 
-### ?play <name>
+### ?play [name]
 
 Adds a player to the player list.
 
-### ?logoff <name>
+### ?logoff [name]
 
 Searches through the player list, will remove if parameter matches name in the list.
 
